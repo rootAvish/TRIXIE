@@ -3,12 +3,13 @@ TRIXIE
 
 This project was undertaken for the sole purpose of messing around with the python programming language.
 
-Nothing to be taken seriously here. Or I may be implementing some cool machine learning hacks. Who knows?
+Nothing to be taken seriously here. Or I may be implementing some cool machine learning hacks. Who knows? With a language this slow but this easy to type, the opportunities are endless.
 
-With a language this slow but this easy to type, the opportunities are endless.
 
+**before we proceed any further**
+*DISCLAIMER* : All commit messages from this point forward will follow the pokemon commit message style, mostly inspired by [this](http://qr.ae/adzyy) answer on Quora.
 SERIOUSLY THO
-=============
+-------------
 
 In all seriousness now, here I plan to host a variety of Python scripts that I plan on writing for various modules. Containing, but not limited to:
 
@@ -24,7 +25,7 @@ My homeboys :metal: @ Google, seem to be really fond of the language, and I deci
 
 
 LICENSE
-=======
+-------
 
 The MIT License (MIT)
 
@@ -46,4 +47,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+
 THE SOFTWARE.
