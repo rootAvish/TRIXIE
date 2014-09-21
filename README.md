@@ -6,7 +6,7 @@ This project was undertaken for the sole purpose of messing around with the pyth
 Nothing to be taken seriously here. Or I may be implementing some cool machine learning hacks. Who knows? With a language this slow but this easy to type, the opportunities are endless.
 
 
-**before we proceed any further**
+**Before we proceed any further**
 *DISCLAIMER* : All commit messages from this point forward will follow the pokemon commit message style, mostly inspired by [this](http://qr.ae/adzyy) answer on Quora.
 SERIOUSLY THO
 -------------
@@ -47,5 +47,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-
 THE SOFTWARE.
