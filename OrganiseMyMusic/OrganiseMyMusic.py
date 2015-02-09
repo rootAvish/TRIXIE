@@ -46,7 +46,11 @@ def sort(current, id3tags):
 #   print current, id3tags, "\n"
 
 def getID3(curfile):
-    id3tags = ID3(curfile).as_dict()
+    try:
+        id3tags = ID3(curfile).as_dict()
+    except Exception, e:
+        id3tags = []
+        pass
     return id3tags
 
 
