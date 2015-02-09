@@ -14,7 +14,10 @@ def move(source, id3tags):
 
              print dest
              if os.path.isdir(dest):
-                shutil.move(source, dest)
+                try:
+                    shutil.move(source, dest)
+                except Exception, e:
+                    return
              else:
                 print "Could not create directories."
 
